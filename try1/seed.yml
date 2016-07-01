@@ -1,0 +1,5 @@
+in:
+  type: file
+  path_prefix: "/home/shigemk2/projects/github.com/shigemk2/my-embulk-sample/try1/csv/sample_"
+out:
+  type: stdout
